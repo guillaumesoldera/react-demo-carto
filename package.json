@@ -1,5 +1,5 @@
 {
-  "name": "search-postal-address",
+  "name": "react-demo-carto",
   "version": "1.0.0",
   "description": "A component to handle a carto",
   "main": "lib/reactcarto.min.js",
