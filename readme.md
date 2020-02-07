@@ -21,7 +21,7 @@ yarn add https://github.com/guillaumesoldera/react-demo-carto
 ```
 
 ```js
-import Carto from 'react-demo-carto';
+import {Carto} from 'react-demo-carto';
 
 function App(props) {
   const centerLatitude = 46.323716;

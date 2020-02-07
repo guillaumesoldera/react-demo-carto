@@ -1,6 +1,6 @@
 import React, { Fragment, useState } from 'react';
 import ReactDOM from 'react-dom';
-import Carto from './index';
+import {Carto} from './index';
 
 
 function App() {
